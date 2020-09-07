@@ -1,0 +1,10 @@
+reflection\ReflectionHelper.class
+resources\ResourceServerControllerMBean.class
+example\Main.class
+reflection\Types.class
+resources\ResourceServerController.class
+servlets\ResourcesPageServlet.class
+sax\ReadXMLFileSAX.class
+reflection\ReflectionHelper$1.class
+resources\TestResource.class
+sax\SaxHandler.class
